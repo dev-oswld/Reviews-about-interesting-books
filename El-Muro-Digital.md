@@ -1,4 +1,4 @@
-# :mexico: El Muro Digital: Acciones disruptivas para impulsar a México 
+# :mexico: The Digital Wall: Disruptive actions to boost Mexico. 
 
 ## :pushpin: Some details
 The title previously mentioned is the original in spanish. You can find it with **ISBN: 9786073165631.**
@@ -10,6 +10,7 @@ The title previously mentioned is the original in spanish. You can find it with 
 ## :paperclip: The Book Cover
 ![Book](https://www.elsotano.com/cover/438/1/1/358-450/muro-digital-el/9786073165624.jpg)
 
+### Review
 But what is disruptive? When I started to see the cover of this book, I asked myself the same question, we could get it from a dictionary, but this is not the case, besides the message that is in the mouths of all "The Wall". This book mentions the news of the "Digital World" together with statistics of these, not everything is there, it is possible to confront in a way all this future approaching, in the following lines I will talk about it.
  
  [**Go to Booklist**](https://github.com/dev-oswld/Reviews-about-interesting-books/blob/master/README.md)
