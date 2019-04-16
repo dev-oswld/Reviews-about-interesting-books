@@ -1,7 +1,7 @@
 # :mexico: The Digital Wall: Disruptive actions to boost Mexico. 
 
 ### :paperclip: The Book Cover
-![Book](https://www.elsotano.com/cover/438/1/1/358-450/muro-digital-el/9786073165624.jpg)
+![Book](https://images-na.ssl-images-amazon.com/images/I/81k-oMlt%2BWL.jpg)
 
 ### :pushpin: Some extra details
 The title previously mentioned is in english, but the original title is *"El Muro Digital: Acciones disruptivas para impulsar a México"*. You can find it with **ISBN: 9786073165631.**
