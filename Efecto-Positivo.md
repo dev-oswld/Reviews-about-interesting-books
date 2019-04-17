@@ -1,9 +1,9 @@
 # :smiley: #PositiveEffect: A book to update, download and reset your life.
 
-## :paperclip: The Book Cover
+### :paperclip: The Book Cover
 ![Book](https://laventanalibreria.com/27866/efecto-positivo.jpg)
 
-## :pushpin: Some extra details
+### :pushpin: Some extra details
 The title previously mentioned is in english, but the original is "#EfectoPositivo: Un libro para actualizar, descargar y resetear tu vida". You can find it with **ISBN 9786075272795.**
 
 | Publisher | Author | Language
