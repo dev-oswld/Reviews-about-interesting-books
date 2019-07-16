@@ -1,7 +1,7 @@
 # :skull: Innovate or Die!: How to Reinvent Yourself and Thrive in the INNOVATION Age
 
 ### :paperclip: The Book Cover
-![Book](https://imagessl5.casadellibro.com/a/l/t5/85/9788499924885.jpg)
+![Book](https://www.andresoppenheimer.com/wp-content/uploads/2014/09/crear-o-morir-de-andrs-oppenheimer-primer-captulo-1-638.jpg)
 
 ### :pushpin: Some extra details
 Another book about innovation, you can find it with **ISBN 9788499924885.**
