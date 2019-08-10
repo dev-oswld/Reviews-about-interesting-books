@@ -6,10 +6,6 @@
 ### :pushpin: Some extra details
 The title previously mentioned is in english, but the original is "#EfectoPositivo: Un libro para actualizar, descargar y resetear tu vida". You can find it with **ISBN 9786075272795.**
 
-| Publisher | Author | Language
-|--|--|--|
-| Oceano | Antonio Esquinca | Spanish |
-
 Sometimes we all have had time of stagnation or are commonly known as *comfort zones*, maybe all of these have not been volunteers (or maybe yes), but there is always a way out of them, this time a book for these challenges is not the exception, remember that this way we learn important lessons.The book that was mentioned before is divided into three parts, these are: *update, download and reset*, a very appropriate name a positive point for the author. The part one of the book consists of an introduction to the present that we have and how paradigms have been created that are difficult to eradicate quickly, for this it takes a force of will and besides being aware that a change is necessary.
 
 > *"His character is essentially the sum of his habits; it's how you usually act" **Rick Warren***

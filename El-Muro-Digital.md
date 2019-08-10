@@ -6,10 +6,6 @@
 ### :pushpin: Some extra details
 The title previously mentioned is in english, but the original title is *"El Muro Digital: Acciones disruptivas para impulsar a México"*. You can find it with **ISBN: 9786073165631.**
 
-| Publisher | Author | Language
-|--|--|--|
-| Grijalbo | Luiz Ferezin | Spanish |
-
 But what is disruptive? When I started to see the cover of this book, I asked myself the same question, we could get it from a dictionary, but this is not the case, besides the message that is in the mouths of all *"The Wall"*. This book mentions the news of the *"Digital World"* together with statistics of these, not everything is there, it is possible to confront in a way all this future approaching, in the following lines I will talk about it.
 
 The book starts describing a normal day in the digital age (like today we use **Uber** or some service), as well as all these changes we have had go unnoticed, where there is a world of possibilities to create, innovate and implement. Enter in context, the average person's attention on the Internet is very scarce being spent between a range of 3 to 4 hours a day, because there is an immensity of information, is difficult to focus on a subject without being distracted at a time, everything has to be precise and effective, so dear reader, the digital is part of our ecosystem and if we do not know how to adapt it can become contradictory in different aspects.

@@ -6,10 +6,6 @@
 ### :pushpin: Some extra details
 Another book about innovation, you can find it with **ISBN 9788499924885.**
 
-| Publisher | Author | Language | 
-|--|--|--|
-| Debate | Andrés Oppenheimer  | Spanish |
-
 Innovation a concept that we know and is strongly linked to creativity, two concepts that play an important role in a global knowledge economy, different concepts and ideas were of great impact with this reading, divided into different chapters, bringing together the best of Latin as well as international talent in biographical capsules of their way of how they got to where they are, one important thing I have to say, several of them see failure as a prelude to success. Returning to the chapters each of them is dedicated to a leader or pioneer for example of gastronomy, drones, 3D printing, soccer, education, trips to the space and others related. All this with the purpose of how each of them came to those results. 
 
 Here's a list of the characters you'll find in the book:
