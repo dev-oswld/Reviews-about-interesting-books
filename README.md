@@ -1,4 +1,5 @@
 # :books: My reviews about interesting books 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 The main purpose of this repository is about revisions of books, in addition to practicing writing in English.
 PS: If you want to leave me a book recommendation, you can do it by leaving an **Issue**.
